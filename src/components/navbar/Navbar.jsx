@@ -264,7 +264,7 @@ function Navbar() {
 														: "",
 											}}
 										>
-											Bibliofile
+											PcGuru
 										</h1>
 									</div>
 								</Link>
